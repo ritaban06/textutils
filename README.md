@@ -1,5 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/textutils)
-![React Version](https://img.shields.io/badge/react-v16.8.0-blue)
+![React Version](https://img.shields.io/badge/react-v18.3.1-blue)
 
 
 # Getting Started with Create React App
